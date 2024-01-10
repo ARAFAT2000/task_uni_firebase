@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094123626171",
+    "project_id": "university-task",
+    "storage_bucket": "university-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094123626171:android:1fbe946fae637c8ed7139e",
+        "android_client_info": {
+          "package_name": "com.example.task_uni_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCsBrxGwi-EgzMeMzxPHBcxR-xPGqnNSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
